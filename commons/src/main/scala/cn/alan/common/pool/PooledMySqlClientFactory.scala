@@ -1,10 +1,10 @@
 
-package pool
+package cn.alan.common.pool
 
 import java.sql.{Connection, DriverManager, PreparedStatement, ResultSet}
 
-import conf.ConfigurationManager
-import constant.Constants
+import cn.alan.common.conf.ConfigurationManager
+import cn.alan.common.constant.Constants
 import org.apache.commons.pool2.impl.{DefaultPooledObject, GenericObjectPool, GenericObjectPoolConfig}
 import org.apache.commons.pool2.{BasePooledObjectFactory, PooledObject}
 

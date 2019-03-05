@@ -1,4 +1,4 @@
-package model
+package cn.alan.common.model
 
 //***************** 输入表 *********************
 

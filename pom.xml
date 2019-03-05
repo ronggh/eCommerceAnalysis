@@ -10,6 +10,7 @@
     <modules>
         <module>mock</module>
         <module>commons</module>
+        <module>analyse</module>
     </modules>
 
     <packaging>pom</packaging>

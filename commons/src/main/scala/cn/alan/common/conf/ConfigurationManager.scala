@@ -1,4 +1,4 @@
-package conf
+package cn.alan.common.conf
 
 import org.apache.commons.configuration2.{FileBasedConfiguration, PropertiesConfiguration}
 import org.apache.commons.configuration2.builder.FileBasedConfigurationBuilder

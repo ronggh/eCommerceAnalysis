@@ -1,7 +1,7 @@
-package utils
+package cn.alan.common.utils
 
-import java.text.SimpleDateFormat
-import java.util.{Calendar, Date}
+
+import java.util.Date
 
 import net.sf.json.JSONObject
 import org.joda.time.DateTime

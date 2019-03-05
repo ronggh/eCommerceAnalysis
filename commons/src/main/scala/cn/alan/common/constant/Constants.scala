@@ -1,4 +1,4 @@
-package constant
+package cn.alan.common.constant
 
 /**
  * 常量接口
